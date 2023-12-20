@@ -17,6 +17,7 @@ function App() {
      <Plans/>
      <Testimonals/>
      <Join/>
+     h
      <Footer/>
    </div>
   )
